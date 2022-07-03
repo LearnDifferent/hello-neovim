@@ -1,4 +1,4 @@
-# hello-neovim
+# Neovim
 
 ## 安装 Neovim
 
@@ -121,6 +121,10 @@ Plug 'morhetz/gruvbox'
 ```
 colorscheme gruvbox
 ```
+
+## Neovim 的使用
+
+使用 `:terminal` 可以打开终端
 
 ## 参考资料
 
